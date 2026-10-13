@@ -118,7 +118,7 @@ Ecommerce-Sales-Analysis/
 ├── sql/
 │   └── ecommerce_sales.sql
 │
-├── powerbi/
+├── power-bi/
 │   └── ecommerce_sales_dashboard.pbix
 │
 ├── images/
